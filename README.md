@@ -15,9 +15,7 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 7.	Waveguide stands MTI/NVIS
 8.	VSWR meter MTI VS 501/NVIS
 9.	Cathode Ray Oscilloscope Scientech -801C
-    
 **Experimental Setup:**
-
 <img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
@@ -55,7 +53,12 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+<img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/aea4963c-23c6-4456-9e1e-6bfad8d0ac78" />
+
+**graph:**
+
+<img width="1210" height="1554" alt="image" src="https://github.com/user-attachments/assets/da09642d-5a8d-4a73-9d29-d12431db2df3" />
+
 
 **CALCULATIONS:**
 
@@ -77,6 +80,9 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
     **Result:**
+
+	Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
+			
    	
 			
 			
